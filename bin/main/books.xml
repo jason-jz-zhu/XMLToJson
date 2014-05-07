@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<books  count="2" xmlns="http://test.org/books">
+	<book id="1" page="1000">
+		<name>Thinking in JAVA</name>
+	</book>
+	<book id="2" page="800">
+		<name>Core JAVA2</name>
+	</book>
+</books>
